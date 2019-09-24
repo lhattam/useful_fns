@@ -2,4 +2,4 @@
 
 Contains:
 
-a mean function 
+a mean function and stuff
