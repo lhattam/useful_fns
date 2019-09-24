@@ -6,7 +6,9 @@ def mean(list):
         return "Empty list"
     
     total=0
-    
+    list_ex=[1.0,2.0]
+    if type(list)!=type(list_ex)
+        return "You didn't pASS A LIST"
     for item in list:
         total+=item
     return total/len(list)
